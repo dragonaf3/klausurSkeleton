@@ -95,6 +95,7 @@
                 <version>0.0.8</version>
                 <configuration>
                     <!--                    <mainClass>${start}</mainClass>-->
+                    <executable>C:\Users\drago\.jdks\openjdk-21.0.2\bin\java</executable>
                 </configuration>
             </plugin>
 
